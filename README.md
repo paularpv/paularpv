@@ -1,6 +1,6 @@
 - 👋 Olá, me chamo Paula Vasconcelos
-- 👩🏻‍🎓 Estou em transição de carreira e estudo ADS no SenacEAD (1º semestre)
-- 📘 Atualmente estou me aperfeiçoando em C#, Python e Fundamentos de AI
+- 👩🏼‍💻 Full-Stack Development at Avanade
+- 👩🏻‍🎓 Estou em transição de carreira e curso ADS no SenacEAD (3º semestre)
 - 📫 /paularpv no LinkedIn
 - 📍 Moro no Recife/PE
 
