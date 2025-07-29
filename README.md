@@ -1,5 +1,5 @@
 - 👋 Olá, sou Paula Vasconcelos
-- 👩🏼‍💻 Full-Stack Development at Avanade
+- 👩🏼‍💻 Full-Stack Development na Avanade
 - 👩🏻‍🎓 Estou em transição de carreira e curso ADS no SenacEAD
 - 📫 /paularpv no LinkedIn
 - 📍 Moro no Recife/PE
