@@ -6,21 +6,29 @@
         <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGV6ZjR0cjdsenVqMjM5Z2ZhbmFoeHQ4bnE5N2IwMnpkMG1jNG5rMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pIRO4qpUFc2y9zRg2X/giphy.gif" width="240"/>
       </td>
       <td align="left">
-        <h1>👋 Olá, eu sou a Paula</h1>
+
+<h1>👋 Olá, eu sou a Paula</h1>
         <p>
-          💡 Analista de Automação Analista apaixonada por IA e eficiência
+          💼 Analista de Automação na <b><span style="color:#FF6A00;">Avanade</span></b>
         </p>
         <p>
-          🚀 RPA | BluePrism | Power Automate | Copilot Studio | n8n
+          💡 Apaixonada por IA e eficiência
         </p>
         <p>
-          🔹 Foco em automação de processos corporativos  
+          🚀 RPA | Blue Prism | Power Automate | Copilot Studio | n8n
+        </p>
+        <p>
+          🎯 Foco em automação de processos corporativos
+        </p>
+        <p>
+          📝 Jornalista em transição de carreira
         </p>
       </td>
     </tr>
   </table>
 
 </div>
+
 
 ---
 
