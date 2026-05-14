@@ -6,10 +6,10 @@
         <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGV6ZjR0cjdsenVqMjM5Z2ZhbmFoeHQ4bnE5N2IwMnpkMG1jNG5rMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pIRO4qpUFc2y9zRg2X/giphy.gif" width="240"/>
       </td>
       <td align="left">
-
-<h1>👋 Olá, eu sou a Paula</h1>
+        <h1>👋 Olá, eu sou a Paula</h1>
         <p>
-          💼 Analista de Automação na <b><span style="color:#FF6A00;">Avanade</span></b>
+          💼 Analista de Automação na 
+          <b><span style="color:#FF6A00;">Avanade</span></b>
         </p>
         <p>
           💡 Apaixonada por IA e eficiência
@@ -28,6 +28,22 @@
   </table>
 
 </div>
+
+---
+
+<div align="center">
+
+### 🎓 Certificações
+
+<p>
+  <img src="https://img.shields.io/badge/AI--900-Azure%20AI%20Fundamentals-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PL--900-Power%20Platform-F2C811?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?style=for-the-badge"/>
+</p>
+
+</div>
+
+
 
 
 ---
