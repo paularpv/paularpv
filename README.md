@@ -8,7 +8,7 @@
       <td align="left">
         <h1>👋 Olá, eu sou a Paula</h1>
         <p>
-          💡 Analista de Automação Analista de Automação apaixonada por IA e eficiência
+          💡 Analista de Automação Analista apaixonada por IA e eficiência
         </p>
         <p>
           🚀 RPA | BluePrism | Power Automate | Copilot Studio | n8n
