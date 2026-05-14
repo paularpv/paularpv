@@ -1,8 +1,8 @@
 - 👋 Olá, sou Paula Vasconcelos
-- 👩🏼‍💻 Full-Stack Development na Avanade
-- 👩🏻‍🎓 Estou em transição de carreira e curso ADS no SenacEAD
+- 👩🏼‍💻 Dev RPA na Avanade, agora com foco em n8n
+- 👩🏻‍🎓 Analista de Sistemas e Jornalista
 - 📫 /paularpv no LinkedIn
-- 📍 Moro no Recife/PE
+- 📍 Recife/PE
 
 <!---
 paularpv/paularpv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
